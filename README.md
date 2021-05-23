@@ -15,13 +15,7 @@
 
 𝙄'𝙢 𝙖 𝙥𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚 𝘼𝙧𝙩𝙞𝙛𝙞𝙘𝙞𝙖𝙡 𝙄𝙣𝙩𝙚𝙡𝙡𝙞𝙜𝙚𝙣𝙘𝙚. 𝙇𝙞𝙠𝙚𝙨 𝙩𝙤 𝙬𝙤𝙧𝙠 𝙤𝙣 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨 𝙤𝙛 𝙙𝙖𝙩𝙖 𝙨𝙘𝙞𝙚𝙣𝙘𝙚 𝙖𝙣𝙙 𝙙𝙖𝙩𝙖 𝙖𝙣𝙖𝙡𝙮𝙨𝙞𝙨 𝙖𝙣𝙙 𝙬𝙤𝙪𝙡𝙙 𝙘𝙤𝙣𝙩𝙧𝙞𝙗𝙪𝙩𝙚 𝙢𝙤𝙧𝙚 𝙩𝙤 𝙩𝙝𝙚 𝙘𝙤𝙢𝙢𝙪𝙣𝙞𝙩𝙮 𝙤𝙛 𝘿𝙖𝙩𝙖 𝙎𝙘𝙞𝙚𝙣𝙘𝙚. 𝘼𝙡𝙨𝙤, 𝙩𝙖𝙠𝙚𝙨 𝙞𝙣𝙩𝙚𝙧𝙚𝙨𝙩 𝙞𝙣 COMPUTER VISION 𝙖𝙣𝙙  Natural Language Processing . 𝙔𝙤𝙪 𝙘𝙖𝙣 reach to 𝙢𝙚 𝙤𝙣 : <br>
 <p align = 'center'> 
-<a href="https://www.linkedin.com/in/shubhambagde/"><img height="30" src="https://github.com/MrShubham1267/Data-Science-Portfolio/blob/main/assets/linkedin.png?raw=true"></a>&nbsp; &nbsp;    
-<a href="https://www.kaggle.com/shubhambagade/code"><img height="30"   src="https://github.com/MrShubham1267/Data-Science-Portfolio/blob/main/assets/kaggle.png?raw=true"></a> 
-&nbsp; &nbsp; 
-</p>
-<br>
-
-
+  
 ## Current Understandings🚩
 <p>
   <img width="250" align='right' src="https://github.com/MrShubham1267/Data-Science-Portfolio/blob/main/assets/coding.gif?raw=true">
