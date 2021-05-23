@@ -6,16 +6,16 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sbagade9171@gmail.com)](mailto:sbagade9171@gmail.com)
 
 ## Data is present all around us, the main purpose is how to utilize that data in the right way.
-
+<p>
+  <img width="250" align='right' src="https://user-images.githubusercontent.com/72594576/119270982-0f32e800-bc1d-11eb-9f46-1acc523a6306.gif?raw=true">
+</p>
 - 🔭 Debugging My Mistakes.
 - 🌱 Right now I'm exploring the new dimensions in the field of technology
 - 👯 I’m a Artificial intelligence Enthusiast.
 - 🤔 I’m looking for new opportunities
 - 😄 Keep Smiling.
 - 👨🏻‍💻 Keep Learning.
-<p>
-  <img width="250" align='right' src="https://user-images.githubusercontent.com/72594576/119270982-0f32e800-bc1d-11eb-9f46-1acc523a6306.gif?raw=true">
-</p>
+
 
 
 
