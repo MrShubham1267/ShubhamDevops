@@ -9,13 +9,12 @@
 <p>
   <img width="250" align='right' src="https://user-images.githubusercontent.com/72594576/119270982-0f32e800-bc1d-11eb-9f46-1acc523a6306.gif?raw=true">
 </p>
-<br>
-- 🔭 Debugging My Mistakes.
-- 🌱 Right now I'm exploring the new dimensions in the field of technology
-- 🕵🏻‍♂️ I’m a Artificial intelligence Enthusiast.
-- 🤔 I’m looking for new opportunities
-- 😄 Keep Smiling.
-- 👨🏻‍💻 Keep Learning.
+- 🔭 Debugging My Mistakes.<br>
+- 🌱 Right now I'm exploring the new dimensions in the field of technology<br>
+- 🕵🏻‍♂️ I’m a Artificial intelligence Enthusiast.<br>
+- 🤔 I’m looking for new opportunities<br>
+- 😄 Keep Smiling.<br>
+- 👨🏻‍💻 Keep Learning.<br>
 
 
 
