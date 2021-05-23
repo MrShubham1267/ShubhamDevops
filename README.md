@@ -1,5 +1,11 @@
-# Hey folks there! I'm Shubham Bagade 
-## Thanks for landing on my profile 🙏🏻
+### Hi there 👋 
+# :man_technologist:It's Shubham Bagade
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MrShubham1267)](https://github.com/MrShubham1267)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubhambagde/)](https://www.linkedin.com/in/shubhambagde/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sbagade9171@gmail.com)](mailto:sbagade9171@gmail.com)
+
+
 
 <p>
   <img width="250" align='right' src="https://github.com/MrShubham1267/Data-Science-Portfolio/blob/main/assets/hello_gif.gif?raw=true">
