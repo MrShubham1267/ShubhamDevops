@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shubham bagade</h1>
+<h1 align="center">Hi 👋, I'm Shubham Bagade</h1>
 
 ## Data is present all around us, the main purpose is how to utilize that data in the right way.
 <p>
