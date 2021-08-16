@@ -1,5 +1,5 @@
-### Hi there 👋 
-# :man_technologist:It's Shubham Bagade
+<h1 align="center">Hi 👋, I'm Shubham bagade</h1>
+<h3 align="center">A passionate in AI</h3>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MrShubham1267)](https://github.com/MrShubham1267)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubhambagde/)](https://www.linkedin.com/in/shubhambagde/)
@@ -18,8 +18,6 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Shubham bagade</h1>
-<h3 align="center">A passionate in AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrshubham1267&label=Profile%20views&color=0e75b6&style=flat" alt="mrshubham1267" /> </p>
 
