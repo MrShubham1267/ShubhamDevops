@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shubham Bagade</h1>
 
-## Data is present all around us, the main purpose is how to utilize that data in the right way.
-<p>
+## Cloud Enthusiast | DevOps | SDLC | STLC | Telecom | CRM |
+ <p>
   <img width="250" align='right' src="https://user-images.githubusercontent.com/72594576/119270982-0f32e800-bc1d-11eb-9f46-1acc523a6306.gif?raw=true">
-</p>
-- 🕵🏻‍♂️ I’m a Artificial intelligence Enthusiast.<br>
+</p> 
+- 🕵🏻‍♂️ I’m a DevOps Enthusiast.<br>
 - 🤔 I’m looking for new opportunities<br>
-- 😄 Keep Smiling.<br>
 - 👨🏻‍💻 Keep Learning.<br>
 - 🔭 Debugging My Mistakes.<br>
 - 🌱 Right now I'm exploring the new dimensions in the field of technology<br>
