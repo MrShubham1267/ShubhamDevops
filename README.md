@@ -2,7 +2,7 @@
 
 ## Cloud Enthusiast | DevOps | SDLC | STLC | Telecom | CRM |
  <p>
-  <img width="250" align='right' src="https://user-images.githubusercontent.com/72594576/119270982-0f32e800-bc1d-11eb-9f46-1acc523a6306.gif?raw=true">
+  <img width="250" align='right' src="https://www.digitalonus.com/wp-content/uploads/2019/07/DOU-GIF4.gif">
 </p> 
 - 🕵🏻‍♂️ I’m a DevOps Enthusiast.<br>
 - 🤔 I’m looking for new opportunities<br>
