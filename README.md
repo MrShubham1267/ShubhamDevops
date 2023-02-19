@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Bagade</h1>
 
-## Cloud Enthusiast | DevOps | SDLC | STLC | Telecom | CRM |
+## Cloud Enthusiast | DevOps | SDLC | STLC | Telecom | CRM | AWS | 
  <p>
   <img width="380" align='right' src="https://www.digitalonus.com/wp-content/uploads/2019/07/DOU-GIF4.gif">
 </p> 
